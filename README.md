@@ -66,7 +66,7 @@ Developing an **autonomous drone system** capable of:
 <p align="center">
   <a href="https://github.com/<your-username>"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:<your-email>@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:srinithilan2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
