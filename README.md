@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sri N.R.</h1>
+<h1 align="center">Hi there 👋, I'm SRI NITHILAN.</h1>
 <h3 align="center">🚀 AI | ML | Automation | UAV Enthusiast | Builder</h3>
 
 ---
