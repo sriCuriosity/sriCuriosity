@@ -54,8 +54,7 @@ Developing an **autonomous drone system** capable of:
 ---
 
 ### 🏆 Highlights & Involvement
-
-- 🧑‍💻 **IIT Madras Brain Lab Internship (LLM Developer)** — Python, AI, and research-focused development.  
+  
 - 🌍 **NASA Space Apps Challenge Participant** — Building innovative solutions using AI & automation.  
 - 🧠 Regular participant in **Hackathons** and **AI Research Competitions**.
 
